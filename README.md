@@ -11,7 +11,11 @@ Welcome to my portfolio! This repository showcases my projects and skills in web
 
 ## About Me
 
-I am a passionate web developer with experience in creating dynamic and responsive websites. I enjoy learning new technologies and improving my skills.
+I am a passionate and dedicated second-year college student pursuing a degree in Bachelor of Technology at KIIT University. With a strong interest in full-stack development, I have developed a solid foundation in HTML, CSS, and basic JavaScript.
+
+In addition to my coursework, I have actively engaged in personal projects to further enhance my web development skills. I enjoy learning new technologies and continuously improving my skill set.
+
+I am also interested in learning the Japanese language and enjoy exploring its rich culture and history.
 
 ## Projects
 
@@ -23,7 +27,7 @@ I am a passionate web developer with experience in creating dynamic and responsi
 
 ### Project 2: [Pick-Me Game]
 
-- **Description:** Pick-Me is a fun and interactive game where players test their reflexes and decision-making skills. Built as a project to enhance my understanding of game development, it features engaging gameplay, dynamic visuals, and user-friendly controls. This project helped me deepen my knowledge of JavaScript for DOM manipulation and event handling.
+- **Description:** Pick-Me is a fun and interactive game where players test their reflexes and decision-making skills. Built as a project to enhance my understanding of game development, it features engaging game play, dynamic visuals, and user-friendly controls. This project helped me deepen my knowledge of JavaScript for DOM manipulation and event handling.
 - **Technologies Used:** HTML, CSS, JavaScript
 - **Link:** [Pick-Me Game](https://maryu0.github.io/pick-me-game/)
 
