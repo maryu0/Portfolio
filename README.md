@@ -64,6 +64,12 @@ I am also interested in learning the Japanese language and enjoy exploring its r
 - Familiar with **Parcel** bundler for optimizing and deploying projects.
 - Comfortable with using **VS Code** as the primary IDE for development.
 
+### Additional Skills
+
+- Understanding of responsive design principles for cross-device compatibility.
+- Familiarity with **environment variable management** using tools like `cross-env`.
+- Passion for writing clean, maintainable, and optimized code.
+
 ## Contact
 
 - **Email:** [Get in Touch](mailto:maryu3738@gmail.com)
