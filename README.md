@@ -53,6 +53,11 @@ I am also interested in learning the Japanese language and enjoy exploring its r
 - Proficient in **HTML** and **CSS** for building responsive and visually appealing web pages.
 - Strong knowledge of **JavaScript** for DOM manipulation, event handling, and interactive UI development.
 
+### Back-End Development
+
+- Experience with **Node.js** and **Express.js** for building server-side applications and RESTful APIs.
+- Proficient in working with **MongoDB** and **Mongoose** for database management and schema design.
+
 ## Contact
 
 - **Email:** [Get in Touch](mailto:maryu3738@gmail.com)
