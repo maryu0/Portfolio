@@ -58,6 +58,12 @@ I am also interested in learning the Japanese language and enjoy exploring its r
 - Experience with **Node.js** and **Express.js** for building server-side applications and RESTful APIs.
 - Proficient in working with **MongoDB** and **Mongoose** for database management and schema design.
 
+### Tools & Technologies
+
+- Version control using **Git** and **GitHub** for project management and collaboration.
+- Familiar with **Parcel** bundler for optimizing and deploying projects.
+- Comfortable with using **VS Code** as the primary IDE for development.
+
 ## Contact
 
 - **Email:** [Get in Touch](mailto:maryu3738@gmail.com)
