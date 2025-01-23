@@ -48,13 +48,10 @@ I am also interested in learning the Japanese language and enjoy exploring its r
 
 ## Skills
 
-- HTML
-- CSS
-- JavaScript
-- Node.js
-- Express.js
-- MongoDB
-- Mongoose
+### Front-End Development
+
+- Proficient in **HTML** and **CSS** for building responsive and visually appealing web pages.
+- Strong knowledge of **JavaScript** for DOM manipulation, event handling, and interactive UI development.
 
 ## Contact
 
